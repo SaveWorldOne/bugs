@@ -1,6 +1,6 @@
-# 🐛 SaveWorldOne Bug Tracker
+# 🐛 SaveWorld Bug Tracker
 
-Welcome to the SaveWorldOne Bug Tracker repository! This is a dedicated space for tracking bugs, issues, and feature requests for SaveWorldOne projects.
+Welcome to the SaveWorld Bug Tracker repository! This is a dedicated space for tracking bugs, issues, and feature requests for SaveWorld projects.
 
 ## 📋 Purpose
 
